@@ -1,4 +1,0 @@
-#Fri Sep 10 21:48:13 WIB 2021
-base.0=/Users/bagus/Development/Flutter/com.mbp/calculator/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
